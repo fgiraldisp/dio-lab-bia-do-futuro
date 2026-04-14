@@ -80,5 +80,18 @@ Essa arquitetura reduz custo, melhora performance e aumenta a confiabilidade das
  - Executar a aplicação
     - `streamlit run src/app.py`
 ---
+## Base de conhecimento
+
+  A base de conhecimento do Orion é composta por arquivos estruturados que armazenam dados do usuário e suas finanças.
+  
+  |Arquivo| Formato | Função |
+  |-------|---------|--------|
+  |`transacoes.csv`|CSV|Registra receitas e despesas|
+  |`planejamento_financeiro.json`|JSON|Define orçamento planejado|
+  |`perfil_usuario.json`|JSON|Contém perfil e objetivos do usuário|
+  |`categorias_financeiras.json`|JSON|Padroniza categorias financeiras|
+  |`historico_interacoes.csv`|CSV|Armazena interações anteriores|
+---
+  
     
 
