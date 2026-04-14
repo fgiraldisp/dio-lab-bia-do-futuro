@@ -1,11 +1,6 @@
-data,descricao,categoria,valor,tipo
-2025-10-01,Salário,receita,5000.00,entrada
-2025-10-02,Aluguel,moradia,1200.00,saida
-2025-10-03,Supermercado,alimentacao,450.00,saida
-2025-10-05,Netflix,lazer,55.90,saida
-2025-10-07,Farmácia,saude,89.00,saida
-2025-10-10,Restaurante,alimentacao,120.00,saida
-2025-10-12,Uber,transporte,45.00,saida
-2025-10-15,Conta de Luz,moradia,180.00,saida
-2025-10-20,Academia,saude,99.00,saida
-2025-10-25,Combustível,transporte,250.00,saida
+id,data,tipo,categoria,subcategoria,descricao,valor,forma_pagamento
+1,2026-04-01,receita,salario,,Salário mensal,5000.00,conta_corrente
+2,2026-04-02,despesa,alimentacao,supermercado,Compra no mercado,320.50,debito
+3,2026-04-05,despesa,transporte,combustivel,Abastecimento,180.00,credito
+4,2026-04-06,despesa,assinaturas,streaming,Streaming mensal,39.90,credito
+5,2026-04-10,despesa,lazer,cinema,Cinema com lanche,85.00,debito
