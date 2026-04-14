@@ -52,6 +52,12 @@ Essa abordagem reduz custo, melhora performance e evita envio de dados desnecess
 
 ### Exemplo de Contexto Montado
 
+O exemplo de contexto montado apresentado abaixo é uma representação simplificada dos dados disponíveis na base de conhecimento do agente Orion.
+
+Em vez de enviar todos os dados brutos ao modelo de linguagem, o sistema realiza previamente o processamento das informações em Python, sintetizando apenas os dados mais relevantes, como saldo, comparação entre valores planejados e realizados e principais padrões de consumo.
+
+Essa abordagem reduz o volume de dados enviados ao modelo, melhora a performance, diminui o custo de utilização da IA e mantém o foco nas informações essenciais para geração de insights financeiros.
+
 **Dados do Usuário:**
 
 - Nome: Flavio  
