@@ -1,0 +1,16 @@
+{
+  "receitas": {
+    "salario": ["salario mensal", "bonus", "hora extra"],
+    "renda_passiva": ["juros", "dividendos", "aluguéis"],
+    "eventuais": ["presente", "reembolso", "venda"]
+  },
+  "despesas": {
+    "alimentacao": ["supermercado", "restaurante", "lanche"],
+    "transporte": ["combustivel", "uber", "onibus"],
+    "moradia": ["aluguel", "condominio", "energia", "agua"],
+    "assinaturas": ["streaming", "software", "academia online"],
+    "saude": ["farmacia", "consulta", "exames"],
+    "lazer": ["cinema", "viagem", "jogos"],
+    "outros": ["imprevistos", "compras diversas"]
+  }
+}
