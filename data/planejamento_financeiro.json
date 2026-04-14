@@ -1,0 +1,16 @@
+{
+  "ano": 2026,
+  "mes": 4,
+  "receita_planejada": 5000.00,
+  "despesa_planejada": 4200.00,
+  "meta_economia": 800.00,
+  "categorias": {
+    "alimentacao": 700.00,
+    "transporte": 400.00,
+    "moradia": 1500.00,
+    "assinaturas": 120.00,
+    "saude": 300.00,
+    "lazer": 250.00,
+    "outros": 930.00
+  }
+}
