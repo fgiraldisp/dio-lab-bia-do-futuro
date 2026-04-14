@@ -7,9 +7,9 @@
   "despesas": {
     "alimentacao": ["supermercado", "restaurante", "lanche"],
     "transporte": ["combustivel", "uber", "onibus"],
-    "moradia": ["aluguel", "condominio", "energia", "agua"],
+    "moradia": ["aluguel", "condominio", "energia", "água"],
     "assinaturas": ["streaming", "software", "academia online"],
-    "saude": ["farmacia", "consulta", "exames"],
+    "saude": ["farmácia", "consulta", "exames"],
     "lazer": ["cinema", "viagem", "jogos"],
     "outros": ["imprevistos", "compras diversas"]
   }
