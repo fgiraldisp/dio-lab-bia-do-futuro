@@ -50,4 +50,20 @@ Essa arquitetura reduz custo, melhora performance e aumenta a confiabilidade das
 │   ├── carregador_dados.py
 │   └── config.py
 ├── requirements.txt
-└── README.md
+```
+---
+## Descrição dos Arquivos
+
+- ***app.py***
+  Responsável por executar a interface do Orion em Streamlit, permitindo interação com o usuário.
+- ***agente.py***
+  Contém a lógica de comunicação com o modelo de linguagem e a montagem das respostas do agente.
+- ***analisador.py***
+  Implementa a análise financeira local, incluindo cálculo de saldo, comparação entre planejado e realizado e geração de insights.
+- ***carregador_dados.py***
+  Faz a leitura dos arquivos da pasta data, como `transacoes.csv`, `perfil_usuario.json` e `planejamento_financeiro.json`.
+- ***config.py***
+  Centraliza configurações como nome do agente, caminhos dos arquivos e possíveis parâmetros do modelo.
+- ***requirements.txt***
+  Lista as bibliotecas necessárias para execução do projeto.
+---
