@@ -49,7 +49,7 @@ Essa arquitetura reduz custo, melhora performance e aumenta a confiabilidade das
 │   ├── analisador.py            # Processamento dos dados financeiros
 │   ├── carregador_dados.py      # Leitura dos arquivos JSON e CSV
 │   └── config.py                # Configurações gerais do sistema
-│── requirements.txt             # Dependências do projeto
+├── requirements.txt             # Dependências do projeto
 ```
 ---
 ## Descrição dos Arquivos
