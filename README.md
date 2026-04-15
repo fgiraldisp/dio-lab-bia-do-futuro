@@ -2,7 +2,7 @@
 
 ## 🧠 Descrição
 
-Esta pasta contém o código fonte do **Orion**, desenvolvido para análise de orçamento pessoal com suporte a processamento local em Python e geração de respostas em linguagem natural. Ele é um agente financeiro inteligente desenvolvido para auxiliar no controle e análise de orçamento pessoal, transformando dados de receitas, despesas e planejamento financeiro em **insights claros, objetivos e acionáveis**, permitindo ao usuário tomar decisões financeiras mais conscientes.
+Este repositório contém o código fonte do **Orion**, desenvolvido para análise de orçamento pessoal com suporte a processamento local em Python e geração de respostas em linguagem natural. Ele é um agente financeiro inteligente desenvolvido para auxiliar no controle e análise de orçamento pessoal, transformando dados de receitas, despesas e planejamento financeiro em **insights claros, objetivos e acionáveis**, permitindo ao usuário tomar decisões financeiras mais conscientes.
 
 ---
 
@@ -49,7 +49,7 @@ Essa arquitetura reduz custo, melhora performance e aumenta a confiabilidade das
 │   ├── analisador.py            # Processamento dos dados financeiros
 │   ├── carregador_dados.py      # Leitura dos arquivos JSON e CSV
 │   └── config.py                # Configurações gerais do sistema
-│   └── requirements.txt             # Dependências do projeto
+│── requirements.txt             # Dependências do projeto
 ```
 ---
 ## Descrição dos Arquivos
@@ -93,7 +93,7 @@ Essa arquitetura reduz custo, melhora performance e aumenta a confiabilidade das
 - [x] Identificação de padrões de consumo
 - [x] Geração de insights financeiros
 - [x] Recomendações práticas para o usuário
-- [x] Interface Interativa com Streamlit
+- [x] Interface interativa com Streamlit
 ---
 ## Exemplo de Análise
 
@@ -123,12 +123,12 @@ Essa arquitetura reduz custo, melhora performance e aumenta a confiabilidade das
   1. Python
   2. Streamlit
   3. Pandas
-  4. JSON/CSV
-  5. Ollama(IA local) ou API de modelo de linguagem
+  4. JSON / CSV
+  5. Ollama (IA local) ou API de modelo de linguagem
 ---
 ## Como executar
   - Instalar dependências
-    - `pip install - r requirements.txt`
+    - `pip install -r requirements.txt`
   - Executar aplicação
     - `streamlit run src/app.py`
 ---
