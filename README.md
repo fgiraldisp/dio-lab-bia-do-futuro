@@ -30,7 +30,6 @@ O objetivo é oferecer uma experiência de análise financeira assistida, com fo
 
 ---
 
-
 ## 🎯 Objetivo do Projeto
 
 O Orion foi criado para ajudar o usuário a:
@@ -187,6 +186,28 @@ O Orion trabalha com arquivos estruturados contendo informações financeiras do
 
 ### Exemplo de resposta esperada
 > “Seu saldo mensal está positivo. As despesas permanecem abaixo do valor planejado, o que indica controle financeiro adequado no período analisado.”
+
+---
+
+## 📊 Avaliação e Métricas
+
+A avaliação do Orion foi realizada por meio de **testes estruturados**, com perguntas previamente definidas e validação do comportamento do agente em três critérios principais:
+
+- **assertividade**
+- **segurança**
+- **coerência**
+
+Os cenários de teste incluíram:
+
+- consulta de gastos com base nos dados carregados
+- análise da situação financeira do mês
+- pergunta fora do escopo do agente
+- solicitação de informação inexistente
+- recomendação compatível com o contexto financeiro
+
+O detalhamento completo da avaliação está disponível em:
+
+- [`docs/04-avaliacao-metricas.md`](docs/04-avaliacao-metricas.md)
 
 ---
 
