@@ -14,6 +14,23 @@ O objetivo é oferecer uma experiência de análise financeira assistida, com fo
 
 ---
 
+## 📸 Interface do Sistema
+
+<p align="center">
+  <img src="docs/screenshots/tela-inicial.png" alt="Tela inicial do Orion" width="900">
+</p>
+
+---
+
+## 📸 Exemplo de Análise do Orion
+
+<p align="center">
+  <img src="docs/screenshots/exemplo-analise.png" alt="Exemplo de análise do Orion" width="900">
+</p>
+
+---
+
+
 ## 🎯 Objetivo do Projeto
 
 O Orion foi criado para ajudar o usuário a:
@@ -272,21 +289,6 @@ streamlit run src/app.py
 - ambiente virtual recomendado
 - chave de API configurada, se houver uso de modelo externo
 - arquivos de dados disponíveis na pasta `data/`
-
----
-## 📸 Interface do Sistema
-
-<p align="center">
-  <img src="docs/screenshots/tela-inicial.png" alt="Tela inicial do Orion" width="900">
-</p>
-
----
-
-## 📸 Exemplo de Análise do Orion
-
-<p align="center">
-  <img src="docs/screenshots/exemplo-analise.png" alt="Exemplo de análise do Orion" width="900">
-</p>
 
 ---
 
