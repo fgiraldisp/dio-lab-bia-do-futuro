@@ -284,7 +284,7 @@ streamlit run src/app.py
 ## 📸 Exemplo de Análise do Orion
 
 <p align="center">
-  <img src="docs/screenshots/exemplo-análise.png" alt="Exemplo de análise do Orion" width="900">
+  <img src="docs/screenshots/exemplo-analise.png" alt="Exemplo de análise do Orion" width="900">
 </p>
 
 ---
